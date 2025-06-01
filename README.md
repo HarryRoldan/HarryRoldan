@@ -1,4 +1,4 @@
-<h1>Hello there, my name is Harry! </h1>
+<h1>Hello there, my name is Harry! (this repository is currently a work in progress, these are not my projects but a template I copied pasted)</h1>
 
 <h2>👨‍💻 Here are some of my Cybersecurity Projects:</h2>
 
